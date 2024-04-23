@@ -1,4 +1,4 @@
-package org.main;
+package org.DatosDinamicos;
 
 class Pareja {
     int primero;

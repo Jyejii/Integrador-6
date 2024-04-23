@@ -1,9 +1,8 @@
-package org.main;
+package org.DatosDinamicos;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
 public class ParejaTest{
     public static void main(String[] args) {
         // Ejemplo de uso de la clase Pareja
